@@ -1,0 +1,52 @@
+.instagram-continue {
+    margin-top: 160px;
+}
+
+.group {
+    margin-bottom: 10px;
+}
+
+.botao {
+    background-color: #0161D9;
+    color: #ffffff;
+    padding: 8px;
+    width: 80%;
+    border-radius: 4px;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 10px;
+    width: 80%;
+    border-radius: 2px;
+    background: rgba(var(--b3f,250,250,250),1);
+    border: 1px solid lightgray;
+    flex: 1 0 auto;
+    overflow: hidden;
+    padding: 9px 0 7px 8px;
+}
+.texto{
+    text-align: center;
+    color: #8e8e8e;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+.primeiro-texto {
+    font-size: 18px;
+    padding: 0 40px;
+}
+
+.segundo-texto{
+    font-weight: 500;
+}
+
+bold{
+    font-weight: 600;
+}
+
+i {
+    font-size: 18px;
+    margin-right: 5px;
+}

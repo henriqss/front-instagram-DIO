@@ -1,0 +1,20 @@
+.group {
+    margin-bottom: 10px;
+}
+
+.texto{
+    text-align: center;
+    color: #3d3d3d;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+.primeiro-texto {
+    font-size: 18px;
+    padding: 0 40px;
+}
+
+i {
+    font-size: 70px;
+}

@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    text-align: center;
+
+    margin-top: 15%;
+    background-image: linear-gradient(to bottom right, #DD2A7B, #8134AF, #515BD4);
+    
+
+    width:50%; 
+    height:200px; 
+}
+
+button{
+    border: none;
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+button:hover{
+    color: white;
+    height: 70px;
+    width: 70px;
+}
+
+.sol:hover {
+    background-image: linear-gradient(to bottom right, #FC5E0B,#FC440C);
+}
+
+.lua:hover {
+    background-image: linear-gradient(to bottom right, #1D1D1D,#08090B);
+}
+
+.normal:hover {
+    background-image: linear-gradient(to bottom right, #DD2A7B, #8134AF, #515BD4);
+}
+
+i{
+    font-size: 25px;
+}
